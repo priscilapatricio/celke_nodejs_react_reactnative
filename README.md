@@ -13,15 +13,13 @@
 <br>
 
 <p align="center">
-  <img alt="Celke" src="/public/Home.png" width="100%"><br>
-  <img alt="Celke" src="/public/Orcamento.png" width="100%"><br>
   <img alt="Celke" src="/public/sitecelke.gif" width="100%"><br>
 
 </p>
 
 ## 📋 Site de Orçamento - Celke
 
-- Status do Projeto: Em desenvolvimento :warning:
+- Status do Projeto: Concluído :heavy_check_mark:
 
 ## 🚀 Tecnologias
 
@@ -39,6 +37,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - Desenvolvimento de um site de orçamento. 
 
 - Para o desenvolvimento deste site foi desenvolvida a seguinte [API](https://github.com/priscilapatricio/celke_nodejs_react_reactnative_API).
+
+- Para este projeto foi criado o seguinte [APP](https://github.com/priscilapatricio/Celke_app).
 
 
 ## 👩🏿‍💻 Como rodar
